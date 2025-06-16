@@ -8,6 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cwnte&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=Cwnte&theme=dark&no-frame=false&no-bg=true&margin-w=4](https://github.com/Cwnte/Cwnte/blob/0a073ced89d825b13354b5961de160844b3cc649/permabanner.png))
+![image alt]([https://github-profile-trophy.vercel.app/?username=Cwnte&theme=dark&no-frame=false&no-bg=true&margin-w=4](https://github.com/Cwnte/Cwnte/blob/0a073ced89d825b13354b5961de160844b3cc649/permabanner.png))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
